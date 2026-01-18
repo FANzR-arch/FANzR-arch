@@ -2,7 +2,7 @@
 <tr>
 <!-- LEFT COLUMN: Profile -->
 <td width="30%" valign="top">
-<h1 align="left">Fan Zhe Ren</h1>
+<h1 align="left">FANzR-arch</h1>
 <p><strong>AI Product Manager & Builder</strong></p>
 <br/>
 <img src="https://via.placeholder.com/300x400/eeeeee/999999?text=Portrait" width="100%" alt="Profile Photo" />
