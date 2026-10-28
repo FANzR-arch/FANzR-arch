@@ -1,6 +1,7 @@
-# 嗨，我是阿哲 Phil 👋
-
-🏗️ 不想画图的建筑师 → AIGC 设计师 & 架构师
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img alt="阿哲 Phil — 不想画图的建筑师 → AIGC 设计师 & 架构师" src="./assets/banner-light.svg" width="100%">
+</picture>
 
 做 AI 内容、AI 产品和品牌增长。写开源 Agent Skills，也把 AI 做成能在真实场景里跑的工具。
 
